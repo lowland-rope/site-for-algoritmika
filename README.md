@@ -1,1 +1,1 @@
-# site-for-algoritmika-
+# my-site
